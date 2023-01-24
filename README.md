@@ -3,7 +3,7 @@ Code used for the statistical analysis of experimental data and meta-analysis
 
 This inculdes scripts for statistical analysis, meta-analysis and plotting figures
 
-Xu et al. 2022 in preparation
+Yansen Xu, Zhaozhong Feng, Jinlong Peng, Johan Uddling. 2023. Variations in leaf anatomical characteristics drive the decrease of mesophyll conductance in poplar under elevated ozone. Global Change Biology. Accepted.
 
 Xu et al., 2022_Statistics.R Includes statistical analysis of experimental data
 
